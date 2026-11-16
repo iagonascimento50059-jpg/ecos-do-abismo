@@ -1,0 +1,8 @@
+{
+  "name": "Ecos do Abismo",
+  "description": "RPG 2D top-down em pixel art 16-bit sombrio e atmosférico de exploração, enigmas sonoros e escolhas morais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
